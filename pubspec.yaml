@@ -84,6 +84,12 @@ flutter:
   fonts:
     - family: RussoOne
       fonts:
-        - asset: assets/fonts/RussoOne-Regular.tff
+        - asset: assets/fonts/RussoOne-Regular.ttf
+
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+        - asset: assets/fonts/Roboto-Bold.ttf
+
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
